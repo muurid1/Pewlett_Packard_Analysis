@@ -67,4 +67,6 @@ The table below displays the list of employees born between January 1 and Decemb
 ### Summary
 
 A total of 90,398 roles will need to be filled at Pewlett_Pakcard after the "silver tsunami".
-The company has 
+The company should have enough to mentor the next generation of employees and/or promote within the company.
+
+
